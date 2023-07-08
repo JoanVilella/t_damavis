@@ -1,7 +1,7 @@
 import unittest
 from typing import List
-from labyrinthSolverDef import Labyrinth
-from labyrinthSolverDef import Orientation
+from labyrinthSolver import Labyrinth
+from labyrinthSolver import Orientation
 
 labyrinth_1 = [[".", ".", ".", ".", ".", ".", ".", ".", "."],
                ["#", ".", ".", ".", "#", ".", ".", ".", "."],
